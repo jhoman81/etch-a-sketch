@@ -1,0 +1,19 @@
+#container div {
+    display: flex;
+    padding: 0; 
+    margin: 0;
+    font-size: 0;
+}
+
+#container div div {
+    width: 48px;
+    height: 48px;
+    float: left;
+    padding: 0;
+    margin: 0;
+    font-size: 0;
+}
+
+#container div div:hover {
+    background-color: black;
+}
